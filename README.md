@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, DevOps**
 
-- 👨‍💻 All of my projects are available at [https://surafel-kifle.onrender.com](https://surafel-kifle.onrender.com)
+- 👨‍💻 All of my projects are available at [https://surafelkifle.com](https://surafelkifle.com)
 
 - 📝 I regularly write articles on [https://medium.com/tag/software-development](https://medium.com/tag/software-development)
 
