@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **surafelkifle17@gmail.com**
 
-- ⚡ Fun fact **Suuuuuiiiiiiii**
+- ⚡ Fun fact **Siuuuuuu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
